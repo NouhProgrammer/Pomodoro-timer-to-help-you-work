@@ -9,9 +9,10 @@ Which goes like this:
 6. 5 min Short Break
 7. 25 min Work
 8. 20 min Long Break
+
 and repeat as much as you want!
 
-Instructions: Instructions: Download the .zip file from the releases tab (or download all files manually and put them inside the same folder),
+Instructions: Download the .zip file from the releases tab (or download all files manually and put them inside the same folder),
 and then make a shortcut to the file called main.py,
 make sure to download python before using the application: https://www.python.org/downloads/
 
